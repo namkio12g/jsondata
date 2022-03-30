@@ -1,0 +1,89 @@
+{"total_size" : 6,
+  "type_id":2,
+  "offset":0,
+  "product":[
+    {
+      "id":1,
+      "name":"Beef steak",
+      "Description":"is a flat cut of beef with parallel faces, usually cut perpendicular to the muscle fibers.",
+      "price":20,
+      "stars":4,
+      "im":"https://fujifoods.vn/wp-content/uploads/2020/12/beef-steak-bo-toi-cover.jpg",
+      "location":"Australian",
+      "created_at":"2021-12-20 06:35:34",
+      "updated_at":"2022-01-01 11:56:22",
+      "type_id":2
+
+
+
+    },
+    {
+      "id":2,
+      "name":"Fried egg",
+      "Description":"a good dish for Breakfast,was cooked my the main chef ",
+      "price":5,
+      "stars":4,
+      "im":"https://cookieandkate.com/images/2018/09/crispy-fried-egg-recipe.jpg",
+      "location":"Vietnam",
+      "created_at":"2020-11-27 06:35:34",
+      "updated_at":"2021-12-01 08:56:22",
+      "type_id":2
+
+
+
+    },
+    {
+      "id":3,
+      "name":"Bun rieu",
+      "Description":"This dish consists of vermicelli (bun tang or vermicelli) and 'crab noodle'. Crab noodle soup is a sour soup made from crab bricks , pounded and filtered crab meat, along with vertical fruits , tomatoes , water fat, vinegar, fish sauce , salt , and scallions ",
+      "price":10,
+      "stars":5,
+      "im":"https://trivietphat.net/wp-content/uploads/2021/08/bun-rieu-cua-dong-1.jpg",
+      "location":"Vietnam",
+      "created_at":"2021-12-27 06:35:34",
+      "updated_at":"2022-01-01 08:56:22",
+      "type_id":2
+
+
+
+    }
+    ,
+    {
+      "id":4,
+      "name":"Taco mexico",
+      "Description":"The tortilla is then folded around the filling and eaten by hand. A taco can be made with a variety of fillings, including beef, pork, chicken, seafood, beans, vegetables, and cheese, allowing for great versatility and variety. ",
+      "price":17,
+      "stars":5,
+      "im":"https://cdn.tgdd.vn/Files/2020/11/12/1306253/tacos-la-gi-cach-lam-banh-tacos-don-gian-tai-nha-202011121416286668.jpg",
+      "location":"Mexico",
+      "created_at":"2020-11-27 06:35:34",
+      "updated_at":"2022-04-01 08:56:22",
+      "type_id":3
+
+
+
+    }
+        ,
+    {
+      "id":5,
+      "name":"Cabonara",
+      "Description":" is an Italian pasta dish from Rome made with eggs, hard cheese, cured pork, and black pepper. The dish arrived at its modern form, with its current name, in the middle of the 20th century. ",
+      "price":13,
+      "stars":4,
+      "im":"https://cdn.daynauan.info.vn/wp-content/uploads/2018/03/mi-y-chay.jpg",
+      "location":"Italia",
+      "created_at":"2020-12-27 06:35:34",
+      "updated_at":"2021-12-01 08:56:22",
+      "type_id":3
+
+
+
+    }
+
+
+
+  ]
+
+
+
+}
